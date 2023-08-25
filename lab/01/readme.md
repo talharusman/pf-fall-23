@@ -2,9 +2,9 @@
 ##23k-0065
 
 ## Qustion 1:
-![image](https://github.com/talharusman/pf-fall-23/assets/142867808/a697c0e6-a785-4f99-8a35-dbd712363f51)
+![image](https://github.com/talharusman/pf-fall-23/assets/142867808/8c3fbf25-0b05-4d7a-9f61-91f1e13a75fc)
 ## Qustion 2:
-![image-](https://github.com/talharusman/pf-fall-23/assets/142867808/dfb34aa 5-3af3-4bdb-9591-2be80b183e3d)
+![image](https://github.com/talharusman/pf-fall-23/assets/142867808/735b37d3-b0d6-4379-b535-a4d51dc58577)
 ## Question 3:
 ![image](https://github.com/talharusman/pf-fall-23/assets/142867808/b4138178-972a-458b-afe6-871712dd3e22)
 ## Question 4:
