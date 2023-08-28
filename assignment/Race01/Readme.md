@@ -2,7 +2,7 @@
 ## 23k-0065
 
 ## Problm 1:
-![Image](https://github.com/talharusman/pf-fall-23/assets/142867808/06c58a40-a3a0-41eb-8a21-6a116b00c83b)
+![Image](https://github.com/talharusman/pf-fall-23/assets/142867808/39671c7a-7d3a-4b4b-92be-57a320f5025b)
 ## Problum 2: 
 ![Image](https://github.com/talharusman/pf-fall-23/assets/142867808/27e4f2f8-8844-43e8-8a9f-bf837c74d513)
 ## Problum 3:
