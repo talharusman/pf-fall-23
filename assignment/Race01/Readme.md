@@ -10,4 +10,4 @@
 ## problum 4:
 ![image](https://github.com/talharusman/pf-fall-23/assets/142867808/cecce397-9393-43af-86c0-cc720afaf1a5)
 ## problum 5:
-![IMG_20230828_174606(1)](https://github.com/talharusman/pf-fall-23/assets/142867808/82350435-31fe-4500-80ef-f6e7e1deaeba)
+![Image](https://github.com/talharusman/pf-fall-23/assets/142867808/82350435-31fe-4500-80ef-f6e7e1deaeba)
