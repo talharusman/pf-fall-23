@@ -13,4 +13,4 @@
 ## task 6
 ![task 6](https://github.com/talharusman/pf-fall-23/assets/142867808/b70465e9-0b5c-44c0-9d48-ea62c1f4c17c)
 ## task 7
-![task 7](https://github.com/talharusman/pf-fall-23/assets/142867808/7cda9fc5-a6e8-46fc-b0aa-70741087acdf)
+![task 7](https://github.com/talharusman/pf-fall-23/assets/142867808/ac0c19d7-728b-4c08-9bad-4ac5bdc80de0)
