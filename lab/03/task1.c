@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int n1;
@@ -9,22 +9,19 @@ int main() {
     scanf(" %d",&n2);
     
     
-    int add=n1+n2;
-     printf("add : %d",add);
-     int mun=n1*n2;
-      printf("mun  : %d",mun);
+    int add= n1+n2;
+    printf("add : %d",add);
+    
+    int mun=n1*n2;
+    printf("\nmun  : %d",mun);
       
-      
-    if("n1>n2"){
-        int subtract=n1-n2;
-        printf("subtract : %d",subtract);
-        int divid=n1/n2;
-        printf("divid : %d",divid);
-    }else{
-        int subtract=n2-n1;
-        printf("subtract: %d",subtract);
-        int divid=n2/n1;
-        printf("divid: %d",divid);
-    }
+    int subtract=n1-n2;
+    printf("\nsubtract : %d",subtract);
+    
+    float divid=(n1*1.0)/(n2*1.0);
+    printf("\ndivid : %f",divid);
+
+    
+  
     return 0;
 }//end main
