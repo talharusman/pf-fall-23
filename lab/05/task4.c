@@ -1,21 +1,26 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <math.h>
 
-int main(){
-           int i;	
-	    int j;
-              int n;
-           printf("enter 1st number:");
-           scanf("%d",&i);
-            printf("enter 2nd number:");
-           scanf("%d",&j);
-	    printf("enter any opperter:");
-           scanf("%d",&n);
-	   switch(n){
-  	  case'-': 
-            int sub=i-j;
-	   
-	   
-         
- return 0;
-
-}//end main
+main(){
+      char n;
+      float i;
+      float j; 
+      printf("entry 1st number");
+      scanf("%f",&i);
+       printf("entry 2nd number");
+      scanf("%f",&j);
+      printf("entry any operater");
+      scanf(" %c",&n);
+      switch(n){
+      case '-':
+        printf("%.1f",i-j);break;
+      case '+':
+      printf("%.1f",i+j);break;
+        
+      case '*': 
+      printf("%.1f",i*j);break;
+      case '/':
+      printf("%.1f",i/j);break;
+      default:printf("errar");  
+      }//end of switch
+}// end to main
