@@ -1,3 +1,8 @@
+/*
+ * programer:talha rusman,23k-0065
+ *Desc:print the sum of n given number 
+ *Date:3/10/2023
+*/
 #include <stdio.h>
 
 main(){  
