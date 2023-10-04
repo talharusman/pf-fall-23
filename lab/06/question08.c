@@ -1,3 +1,9 @@
+/*
+ * programer:talha rusman,23k-0065
+ *Desc:display it in reverse
+  order.
+ *Date:3/10/2023
+*/
 #include<stdio.h>
 
 int main(){
