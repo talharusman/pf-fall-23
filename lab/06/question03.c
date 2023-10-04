@@ -1,6 +1,6 @@
 /*
  * programer:talha rusman,23k-0065
- *Desc:for loop in these program
+ *Desc:The LCM and GCD of two numbers.
  *Date:3/10/2023
 */
 #include<stdio.h>
