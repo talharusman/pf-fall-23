@@ -1,6 +1,7 @@
 /*
  * programer:talha rusman,23k-0065
- *Desc:prac
+ *Desc:the value of a<=9 the output should 8=Eight, 9=Nine etc.
+ *if a>9 output should even or odd
  *Date:3/10/2023
 */
 #include<stdio.h>
