@@ -1,6 +1,6 @@
 /*
  * programer:talha rusman,23k-0065
- *Desc:for loop in these program
+ *Desc:number is perfect or not
  *Date:3/10/2023
 */
 #include<stdio.h>
