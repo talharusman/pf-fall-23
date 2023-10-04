@@ -1,6 +1,7 @@
 /*
 programer: talha rusman;23k-0065
-
+*Desc: draw the pattern
+*Date:3/10/2023
 */
 #include <stdio.h>
 
