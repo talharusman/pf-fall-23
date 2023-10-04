@@ -1,6 +1,6 @@
 /*
  * programer:talha rusman,23k-0065
- *Desc:for loop in these program
+ *Desc:n Fibonacci numbers divisible by 3, 5 or 7 only.
  *Date:3/10/2023
 */
 #include<stdio.h>
