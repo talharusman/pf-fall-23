@@ -15,7 +15,8 @@ int main(){
 	scanf("%d",&b);
 	max=b,min=b;
 	n--;
-	while(n--){
+	for(i=1;n>=1;i++){
+		n=n-1;
 		scanf("%d",&b);
 		if(b<min){
 			min=b;
