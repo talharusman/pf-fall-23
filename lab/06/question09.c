@@ -24,7 +24,7 @@ int main(){
 		if (b>max){
 			max=b;
 		}
-	}
+	}//end of for loop
 	printf("Max=%d\nMin=%d\n",max,min);
 	return 0;
-}
+}//end to main
