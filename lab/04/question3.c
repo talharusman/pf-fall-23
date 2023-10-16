@@ -11,7 +11,7 @@ int main() {
 	int square_and_sum=0 ; 
     printf("Enter the number (number=>0): ");
     scanf("%d", &n);// in n store the integer 
-    int num[n];//stor more n numbers
+    int num[10000];//stor more n numbers
 
     for(i = 0; i < n; i++) {
         printf("Enter integer %d: ", i + 1);
