@@ -4,37 +4,32 @@
 *Date:10/10/23
 */
 #include <stdio.h>
+#include<stdbool.h>
 
 int main(){
-            int i,j,c,r;
-           int matrix[3][3];
-     
-            for(i=0;i<3;i++){ 
-                    for(j=0;j<3;j++){
-                    printf("entere ementment of (row%d,columb%d):",i+1,j+1);
-                    scanf("%d",&matrix[i][j]);
+            int i,j,n;
+           int A[3][3];
+           printf("enter the number of row or colume:");
+           scanf("%d",&n);
+           
+            printf("entere ementment of A matrix:");
+            for(i=0;i<n;i++){ 
+                    for(j=0;j<n;j++){
+                    scanf("%d",&A[i][j]);
                  }
            }
-               for(i=0;i<3;i++){ 
-                    for(j=0;j<3;j++){
-                    printf("%d ",matrix[i][j]);
-                     if(j==2){
-                       printf("\n");
-                   }
+           bool flag=false; 
+           for (i=0;i<n;i++){
+                flag=false; 
+                for (j=0;j<n;j++){
+                    if(A[i][j]==A[j][i]){
+                       flag=true;
+	         }
                  }
-           }
-                   if(matrix[0][1]==matrix[1][0]){
-                      if(matrix[0][2]==matrix[2][0]){
-                         if(matrix[0][1]==matrix[1][0]){
-                          printf("matrix is sumatric");
-                                }
-                                 else 
-                                 printf("matrix is not sumatric");
-                       }
-                         else 
-                        printf("matrix is not sumatric");
-                    } 
-                   else 
-                        printf("matrix is not sumatric");
+             }
+            if(flag){
+                 printf("matrix is Symmetric.");
+            }else
+                printf("matrix is not Symmetric.");
 return 0;
-}
+}// end main
