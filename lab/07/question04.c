@@ -1,6 +1,6 @@
 /*
 *programer: talha rusman 23k-0065
-*Dase: without divison oprater
+*Dase:matrix is sumatry or not
 *Date:10/10/23
 */
 #include <stdio.h>
