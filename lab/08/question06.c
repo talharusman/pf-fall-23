@@ -1,6 +1,6 @@
 /*
 * progmer :talha rusman
-*desc : swaps the value
+*desc :  calculate the sum, maximum, and  minimum values.
 *date:24/10/2023
 */
 #include<stdio.h>
