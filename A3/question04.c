@@ -1,3 +1,9 @@
+/**
+ * Programmer: Talha Rusman
+ * Desc: Prints Max and Total Salaries of Departments
+ * Date: 23/11/2023
+ * Roll-No: 23K-0065
+ */ 
 #include <stdio.h>
 #include <string.h>
 
