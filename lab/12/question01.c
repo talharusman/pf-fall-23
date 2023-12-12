@@ -1,6 +1,6 @@
 /*
-  Programmer: Raghib Rizwan Rabani
-  Roll No: 23K-0012
+  Programmer: Talha Rusman
+  Roll No: 23K-0065
   Desc: Filing
 */
 #include <stdio.h>
